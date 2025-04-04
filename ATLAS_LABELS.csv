@@ -1,0 +1,84 @@
+Label,Hemisphere,Lobe,BA,ColIdx
+Left-Amygdala (53),1,Deep,53,2
+Left-BA10,1,Frontal,10,5
+Left-BA11,1,Frontal,11,6
+Left-BA19,1,Occipital,19,3
+Left-BA20,1,Temporal,20,3
+Left-BA21,1,Temporal,21,4
+Left-BA22,1,Temporal,22,5
+Left-BA23,1,Cingulum,23,1
+Left-BA24,1,Cingulum,24,2
+Left-BA25,1,Frontal,25,7
+Left-BA30,1,Cingulum,30,3
+Left-BA31,1,Cingulum,31,4
+Left-BA32,1,Cingulum,32,5
+Left-BA34,1,Temporal,34,7
+Left-BA38,1,Temporal,38,6
+Left-BA39,1,Parietal,39,1
+Left-BA40,1,Parietal,40,2
+Left-BA44,1,Frontal,44,8
+Left-BA45,1,Frontal,45,9
+Left-BA46,1,Frontal,46,10
+Left-BA47,1,Frontal,47,11
+Left-BA6,1,Frontal,6,2
+Left-BA7,1,Parietal,7,3
+Left-BA8,1,Frontal,8,3
+Left-BA9,1,Frontal,9,4
+Left-Caudate (48),1,Deep,48,3
+Left-Fusiform (37),1,Temporal,37,1
+Left-GlobPal (51),1,Deep,51,4
+Left-Hippocampus (54),1,Deep,54,1
+Left-Hypothalamus (55),1,Deep,55,5
+Left-Insula (13),1,Deep,13,6
+Left-NucAccumb (52),1,Deep,52,7
+Left-Parahip (36),1,Temporal,36,2
+Left-PrimAuditory (41),1,Temporal,41,8
+Left-PrimMotor (4),1,Frontal,4,1
+Left-PrimSensory (1),1,Parietal,1,5
+Left-PrimVisual (17),1,Occipital,17,1
+Left-Putamen (49),1,Deep,49,8
+Left-SensoryAssoc (5),1,Parietal,5,4
+Left-Thalamus (50),1,Deep,50,9
+Left-VisualAssoc (18),1,Occipital,18,2
+Outside defined BAs,None,None,0,0
+Right-Amygdala (53),2,Deep,53,2
+Right-BA10,2,Frontal,10,5
+Right-BA11,2,Frontal,11,6
+Right-BA19,2,Occipital,19,3
+Right-BA20,2,Temporal,20,3
+Right-BA21,2,Temporal,21,4
+Right-BA22,2,Temporal,22,5
+Right-BA23,2,Cingulum,23,1
+Right-BA24,2,Cingulum,24,2
+Right-BA25,2,Frontal,25,7
+Right-BA30,2,Cingulum,30,3
+Right-BA31,2,Cingulum,31,4
+Right-BA32,2,Cingulum,32,5
+Right-BA34,2,Temporal,34,7
+Right-BA38,2,Temporal,38,6
+Right-BA39,2,Parietal,39,1
+Right-BA40,2,Parietal,40,2
+Right-BA44,2,Frontal,44,8
+Right-BA45,2,Frontal,45,9
+Right-BA46,2,Frontal,46,10
+Right-BA47,2,Frontal,47,11
+Right-BA6,2,Frontal,6,2
+Right-BA7,2,Parietal,7,3
+Right-BA8,2,Frontal,8,3
+Right-BA9,2,Frontal,9,4
+Right-Caudate (48),2,Deep,48,3
+Right-Fusiform (37),2,Temporal,37,1
+Right-GlobPal (51),2,Deep,51,4
+Right-Hippocampus (54),2,Deep,54,1
+Right-Hypothalamus (55),2,Deep,55,5
+Right-Insula (13),2,Deep,13,6
+Right-NucAccumb (52),2,Deep,52,7
+Right-Parahip (36),2,Temporal,36,2
+Right-PrimAuditory (41),2,Temporal,41,8
+Right-PrimMotor (4),2,Frontal,4,1
+Right-PrimSensory (1),2,Parietal,1,5
+Right-PrimVisual (17),2,Occipital,17,1
+Right-Putamen (49),2,Deep,49,8
+Right-SensoryAssoc (5),2,Parietal,5,4
+Right-Thalamus (50),2,Deep,50,9
+Right-VisualAssoc (18),2,Occipital,18,2
