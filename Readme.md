@@ -11,7 +11,8 @@ I was looking for a nice way to create customizable plots of sEEG electrodes in 
 My small tool is based on the MNI brain model template and BA atlas segmentation from Lacadie et al., (2008) that is also implemented in an interactive online tool of the BioImage Suite (https://bioimagesuiteweb.github.io/webapp/)
 You may either plot the whole brain, distinct BA regions, highlight regions in wholebrain plots and add MNI coordinates for sEEG electrode positions. 
 
-
+Here's an example of customized plots, showing the bilateral Hippocampus highlighted within the wholebrain, just the Hippocampi and two example sEEG contacts. 
+![screenshot](Custom_Plot.PNG)
 
 References:
     C.M. Lacadie, R. K. Fulbright, J. Arora, R.T.Constable, and X. Papademetris. Brodmann Areas defined in MNI space using a new Tracing Tool in BioImage Suite. Human Brain Mapping, 2008.
