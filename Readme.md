@@ -1,10 +1,6 @@
 
 ### BA Atlas for interactive plotting of intracranial electrode contacts (sEEG / ECoG) 
-
 ![screenshot](Wholebrain_Plot.PNG)
-
-# April 04, 2025
-# Elias Rau
 
 Hi!
 I was looking for a nice way to create customizable plots of sEEG electrodes in standardized (MNI) space, highlighting distinct regions of interest.
@@ -20,3 +16,4 @@ References:
 Requirements:
     cbrewer2 - https://de.mathworks.com/matlabcentral/fileexchange/58350-cbrewer2
 
+Uploaded April 04, 2025
